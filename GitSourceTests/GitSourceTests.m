@@ -4,7 +4,7 @@
 //
 //  Created by curso on 26/12/13.
 //  Copyright (c) 2013 anyway. All rights reserved.
-//
+// Cambio por Ivan Hidrovo
 
 #import <XCTest/XCTest.h>
 
