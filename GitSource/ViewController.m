@@ -28,7 +28,8 @@
 
 - (void)saludo
 {
-    // metodo saludo
+    // metodo saludoujkfghwejkgk
+    NSString a;
 }
 
 @end
